@@ -1,0 +1,30 @@
+body{
+  color: green;
+}
+#myId{
+  background-color: yellow;
+}
+.class1{
+ background-color: pink;
+}
+.class2{
+  background-color: blue;
+}
+*{
+  background-color: red;
+}
+h1, h2 {
+ background-color: purple;
+}
+ul > li{
+ background-color: indigo;
+}
+p + h2{
+ background-color: yellow;
+}
+ul > li:first-child{
+  background-color: yellow;
+}
+ul > li:last-child{
+  background-color: yellow;
+}

@@ -1,0 +1,19 @@
+  body{
+  background-color: pink;
+  color: black;
+  }
+  h1{
+    background-color: blue;
+    color: white;
+  }
+  #Dacoles-h1{
+    color: red;
+    background-color: blue;
+  }
+  .fancy-border{
+    border: 3px dashed red;
+  }
+  .yellow-text{
+    color: yellow;
+  }
+  
